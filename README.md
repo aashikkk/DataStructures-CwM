@@ -146,8 +146,8 @@ Input grows larger and larger, the time complexity of the algorithm grows quadra
 - Binary search is a recursive algorithm.
 - Binary search is a fast search algorithm with a time complexity of O(log n).
 
-![img.png](BinarySearch0.png)
-![img.png](BinarySearch.png)
+![img.png](img/BinarySearch0.png)
+![img.png](img/BinarySearch.png)
 ![img_1.png](img/0Logn.png)
 
 
@@ -157,12 +157,12 @@ Input grows larger and larger, the time complexity of the algorithm grows quadra
 - Exponential time complexity is the least efficient and least scalable.
 - Opposite of logarithmic time complexity.
 
-![img.png](ExpoGra.png)
+![img.png](img/ExpoGra.png)
 
 # Summary
 
-![img.png](Sum1.png)
-![img_1.png](Sum2.png)
+![img.png](img/Sum1.png)
+![img_1.png](img/Sum2.png)
 
 ### Space Complexity
 Space complexity is a measure of the amount of working storage an algorithm needs. It refers to the total amount of memory space required by the algorithm to complete its execution. This includes the memory space needed for:
@@ -174,7 +174,7 @@ Space complexity is a measure of the amount of working storage an algorithm need
 Space complexity is usually expressed in terms of Big O notation, similar to time complexity. It helps in understanding how the memory requirements of an algorithm grow with the size of the input.
 
 For example:
-- **O(1)**: Constant space complexity, where the memory required does not change with the input size.
+- **O(1)**: Constant space d, where the memory required does not change with the input size.
 - **O(n)**: Linear space complexity, where the memory required grows linearly with the input size.
 - **O(n^2)**: Quadratic space complexity, where the memory required grows quadratically with the input size.
 
